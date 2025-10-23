@@ -26,6 +26,25 @@
 ##### TSH_Level	Thyroid-Stimulating Hormone
 ##### T3_Level	Triiodothyronine hormone
 ##### T4_Level	Thyroxine hormone
-Nodule_Size	Size of thyroid nodules
-Thyroid_Cancer_Risk	Low / Medium / High risk
-Diagnosis	Benign / Malignant outcome
+##### Nodule_Size	Size of thyroid nodules
+##### Thyroid_Cancer_Risk	Low / Medium / High risk
+##### Diagnosis	Benign / Malignant outcome
+
+ ## Data Preprocessing
+ 
+ ##### 1: Load Data
+ ##### import pandas as pd
+ ##### df = pd.read_csv("thyroid_cancer_risk_data.csv")
+
+##### Step 2: Data Inspection
+
+##### Rows: 212,691
+
+##### Columns: 17
+
+##### No missing (null) values
+
+##### No duplicate entries (df.duplicated().sum() == 0)
+
+##### Memory usage: 27.6 MB
+
