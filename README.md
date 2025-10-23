@@ -48,3 +48,14 @@
 
 ##### Memory usage: 27.6 MB
 
+##### Step 3: Data Types
+
+##### Numerical columns: Age, TSH_Level, T3_Level, T4_Level, Nodule_Size
+
+##### Categorical columns: Gender, Country, Ethnicity, Family_History, etc.
+
+##### Step 4: Encoding & Cleaning
+
+##### Converted categorical data into numerical form (if required for modeling).
+
+##### Verified balanced distributions for key categorical fields
