@@ -89,3 +89,19 @@
 
 ##### 7. Pie Plot
 ##### Insight: ~76% Benign and ~24% Malignant — benign cases are dominant.
+
+## Model Overview
+
+##### (if predictive modeling is added)
+
+##### If a model is added (e.g., Logistic Regression / Random Forest):
+
+##### Goal: Predict Diagnosis or Thyroid_Cancer_Risk
+
+##### Target variable: Diagnosis
+
+##### Feature variables: All others except ID
+
+##### Possible algorithms: Logistic Regression, Random Forest, KNN
+
+##### Performance metrics: Accuracy, Confusion Matrix, F1 Score
